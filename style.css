@@ -7,11 +7,11 @@
     margin: 0;
     padding: 0;
     box-sizing: content-box;
-    overflow-x: hidden;
 }
 
 html{
     background-color: var(--primary-color);
+    overflow-x: hidden;
 }
 
 body{
